@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 18 / 100일 (18%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 19 / 100일 (19%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -28,9 +28,9 @@
 | 14  | [Create a DVC Pipeline for Data Processing](./challenges/day14.md)                          | `DVC`       | ✅     |
 | 15  | [Parameterize a DVC Pipeline](./challenges/day15.md)                                        | `DVC`       | ✅     |
 | 16  | [Track ML Metrics with DVC](./challenges/day16.md)                                          | `DVC`       | ✅     |
-| 17  | [Run and Compare DVC Experiments](./challenges/day17.md)                                    | `DVC`       | ⏳     |
-| 18  | [Version Datasets and Models Across Git Branches](./challenges/day18.md)                    | `DVC` `Git` | ⏳     |
-| 19  | [Build Complete DVC ML Pipeline with Remote Storage and Experiments](./challenges/day19.md) | `DVC`       | ⏳     |
+| 17  | [Run and Compare DVC Experiments](./challenges/day17.md)                                    | `DVC`       | ✅     |
+| 18  | [Version Datasets and Models Across Git Branches](./challenges/day18.md)                    | `DVC` `Git` | ✅     |
+| 19  | [Build Complete DVC ML Pipeline with Remote Storage and Experiments](./challenges/day19.md) | `DVC`       | ✅     |
 
 ### 실험 추적 및 모델 관리 (MLflow)
 
