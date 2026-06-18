@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 19 / 100일 (19%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 20 / 100일 (20%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -34,19 +34,19 @@
 
 ### 실험 추적 및 모델 관리 (MLflow)
 
-| Day | Topic                                                           | Tech Stack | Status |
-| --- | --------------------------------------------------------------- | ---------- | ------ |
-| 20  | Install and Start the MLflow Tracking Server                    | `MLflow`   | ⏳     |
-| 21  | Log an ML Experiment to MLflow                                  | `MLflow`   | ⏳     |
-| 22  | Create and Organize MLflow Experiments                          | `MLflow`   | ⏳     |
-| 23  | Search and Query MLflow Runs                                    | `MLflow`   | ⏳     |
-| 24  | Enable MLflow Autologging                                       | `MLflow`   | ⏳     |
-| 25  | Register, Version, and Manage Model Lifecycle                   | `MLflow`   | ⏳     |
-| 26  | Compare Model Runs and Select the Best                          | `MLflow`   | ⏳     |
-| 27  | Load Model from Registry with Custom Preprocessing              | `MLflow`   | ⏳     |
-| 28  | Fix a Broken MLflow Project and Re-Run It                       | `MLflow`   | ⏳     |
-| 29  | Configure MLflow with Remote Tracking Server and Artifact Store | `MLflow`   | ⏳     |
-| 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor    | `MLflow`   | ⏳     |
+| Day | Topic                                                                 | Tech Stack | Status |
+| --- | --------------------------------------------------------------------- | ---------- | ------ |
+| 20  | [Install and Start the MLflow Tracking Server](./challenges/day20.md) | `MLflow`   | ✅     |
+| 21  | Log an ML Experiment to MLflow                                        | `MLflow`   | ⏳     |
+| 22  | Create and Organize MLflow Experiments                                | `MLflow`   | ⏳     |
+| 23  | Search and Query MLflow Runs                                          | `MLflow`   | ⏳     |
+| 24  | Enable MLflow Autologging                                             | `MLflow`   | ⏳     |
+| 25  | Register, Version, and Manage Model Lifecycle                         | `MLflow`   | ⏳     |
+| 26  | Compare Model Runs and Select the Best                                | `MLflow`   | ⏳     |
+| 27  | Load Model from Registry with Custom Preprocessing                    | `MLflow`   | ⏳     |
+| 28  | Fix a Broken MLflow Project and Re-Run It                             | `MLflow`   | ⏳     |
+| 29  | Configure MLflow with Remote Tracking Server and Artifact Store       | `MLflow`   | ⏳     |
+| 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor          | `MLflow`   | ⏳     |
 
 ### 모델 훈련 최적화 및 기능 저장소 (Feast)
 
