@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 20 / 100일 (20%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 21 / 100일 (21%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -37,7 +37,7 @@
 | Day | Topic                                                                 | Tech Stack | Status |
 | --- | --------------------------------------------------------------------- | ---------- | ------ |
 | 20  | [Install and Start the MLflow Tracking Server](./challenges/day20.md) | `MLflow`   | ✅     |
-| 21  | Log an ML Experiment to MLflow                                        | `MLflow`   | ⏳     |
+| 21  | [Log an ML Experiment to MLflow](./challenges/day21.md)               | `MLflow`   | ✅     |
 | 22  | Create and Organize MLflow Experiments                                | `MLflow`   | ⏳     |
 | 23  | Search and Query MLflow Runs                                          | `MLflow`   | ⏳     |
 | 24  | Enable MLflow Autologging                                             | `MLflow`   | ⏳     |
