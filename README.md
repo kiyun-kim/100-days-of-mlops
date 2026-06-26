@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 27 / 100일 (27%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 28 / 100일 (28%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -44,7 +44,7 @@
 | 25  | [Register, Version, and Manage Model Lifecycle](./challenges/day25.md)                 | `MLflow`   | ✅     |
 | 26  | [Compare Model Runs and Select the Best](./challenges/day26.md)                        | `MLflow`   | ✅     |
 | 27  | [Load Model from Registry with Custom Preprocessing](./challenges/day27.md)            | `MLflow`   | ✅     |
-| 28  | Fix a Broken MLflow Project and Re-Run It                                              | `MLflow`   | ⏳     |
+| 28  | [Fix a Broken MLflow Project and Re-Run It](./challenges/day28.md)                     | `MLflow`   | ✅     |
 | 29  | Configure MLflow with Remote Tracking Server and Artifact Store                        | `MLflow`   | ⏳     |
 | 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor                           | `MLflow`   | ⏳     |
 
