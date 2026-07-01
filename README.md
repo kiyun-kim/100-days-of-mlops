@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 30 / 100일 (30%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 32 / 100일 (32%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -50,21 +50,21 @@
 
 ### 모델 훈련 최적화 및 기능 저장소 (Feast)
 
-| Day | Topic                                                             | Tech Stack   | Status |
-| --- | ----------------------------------------------------------------- | ------------ | ------ |
-| 31  | Train a Scikit-Learn Model with Reproducible Script               | `sklearn`    | ⏳     |
-| 32  | Manage Training Configuration with YAML                           | `YAML`       | ⏳     |
-| 33  | Evaluate a Trained Model and Generate Classification Report       | `Evaluation` | ⏳     |
-| 34  | Implement Cross-Validation for Model Selection                    | `sklearn`    | ⏳     |
-| 35  | Hyperparameter Tuning with Optuna                                 | `Optuna`     | ⏳     |
-| 36  | Automated Model Selection with FLAML AutoML                       | `FLAML`      | ⏳     |
-| 37  | Distributed Model Training with Joblib Parallelization            | `Joblib`     | ⏳     |
-| 38  | Build Modular Training Pipeline with Config-Driven Stages         | `MLOps`      | ⏳     |
-| 39  | Train a PyTorch Model with GPU Support and Checkpointing          | `PyTorch`    | ⏳     |
-| 40  | Production Training System: Tracking, Tuning, and Model Selection | `MLOps`      | ⏳     |
-| 41  | Install and Initialize a Feast Feature Store                      | `Feast`      | ⏳     |
-| 42  | Define Feature Views in Feast                                     | `Feast`      | ⏳     |
-| 43  | Materialize Features to the Online Store                          | `Feast`      | ⏳     |
+| Day | Topic                                                                        | Tech Stack   | Status |
+| --- | ---------------------------------------------------------------------------- | ------------ | ------ |
+| 31  | [Train a Scikit-Learn Model with Reproducible Script](./challenges/day31.md) | `sklearn`    | ✅     |
+| 32  | [Manage Training Configuration with YAML](./challenges/day32.md)             | `YAML`       | ✅     |
+| 33  | Evaluate a Trained Model and Generate Classification Report                  | `Evaluation` | ⏳     |
+| 34  | Implement Cross-Validation for Model Selection                               | `sklearn`    | ⏳     |
+| 35  | Hyperparameter Tuning with Optuna                                            | `Optuna`     | ⏳     |
+| 36  | Automated Model Selection with FLAML AutoML                                  | `FLAML`      | ⏳     |
+| 37  | Distributed Model Training with Joblib Parallelization                       | `Joblib`     | ⏳     |
+| 38  | Build Modular Training Pipeline with Config-Driven Stages                    | `MLOps`      | ⏳     |
+| 39  | Train a PyTorch Model with GPU Support and Checkpointing                     | `PyTorch`    | ⏳     |
+| 40  | Production Training System: Tracking, Tuning, and Model Selection            | `MLOps`      | ⏳     |
+| 41  | Install and Initialize a Feast Feature Store                                 | `Feast`      | ⏳     |
+| 42  | Define Feature Views in Feast                                                | `Feast`      | ⏳     |
+| 43  | Materialize Features to the Online Store                                     | `Feast`      | ⏳     |
 
 ### 데이터 품질 및 가상 인프라 보안
 
