@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 33 / 100일 (33%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 34 / 100일 (34%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -55,7 +55,7 @@
 | 31  | [Train a Scikit-Learn Model with Reproducible Script](./challenges/day31.md)         | `sklearn`    | ✅     |
 | 32  | [Manage Training Configuration with YAML](./challenges/day32.md)                     | `YAML`       | ✅     |
 | 33  | [Evaluate a Trained Model and Generate Classification Report](./challenges/day33.md) | `Evaluation` | ✅     |
-| 34  | Implement Cross-Validation for Model Selection                                       | `sklearn`    | ⏳     |
+| 34  | [Implement Cross-Validation for Model Selection](./challenges/day34.md)              | `sklearn`    | ✅     |
 | 35  | Hyperparameter Tuning with Optuna                                                    | `Optuna`     | ⏳     |
 | 36  | Automated Model Selection with FLAML AutoML                                          | `FLAML`      | ⏳     |
 | 37  | Distributed Model Training with Joblib Parallelization                               | `Joblib`     | ⏳     |
