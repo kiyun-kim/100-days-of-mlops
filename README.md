@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 38 / 100일 (38%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 39 / 100일 (39%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -60,7 +60,7 @@
 | 36  | [Automated Model Selection with FLAML AutoML](./challenges/day36.md)                       | `FLAML`      | ✅     |
 | 37  | [Distributed Model Training with Joblib Parallelization](./challenges/day37.md)            | `Joblib`     | ✅     |
 | 38  | [Build Modular Training Pipeline with Config-Driven Stages](./challenges/day38.md)         | `MLOps`      | ✅     |
-| 39  | [Train a PyTorch Model with GPU Support and Checkpointing](./challenges/day39.md)          | `PyTorch`    | ⏳     |
+| 39  | [Train a PyTorch Model with GPU Support and Checkpointing](./challenges/day39.md)          | `PyTorch`    | ✅     |
 | 40  | [Production Training System: Tracking, Tuning, and Model Selection](./challenges/day40.md) | `MLOps`      | ⏳     |
 | 41  | [Install and Initialize a Feast Feature Store](./challenges/day41.md)                      | `Feast`      | ⏳     |
 | 42  | [Define Feature Views in Feast](./challenges/day42.md)                                     | `Feast`      | ⏳     |
