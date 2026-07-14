@@ -6,7 +6,7 @@
 
 ## 📊 챌린지 진행 현황판
 
-> **진행률: 39 / 100일 (39%)** · ✅ 완료 · ⏳ 예정
+> **진행률: 40 / 100일 (40%)** · ✅ 완료 · ⏳ 예정
 
 ### 개발 환경 및 데이터 버전 관리 (DVC)
 
@@ -50,21 +50,21 @@
 
 ### 모델 훈련 최적화 및 기능 저장소 (Feast)
 
-| Day | Topic                                                                                      | Tech Stack   | Status |
-| --- | ------------------------------------------------------------------------------------------ | ------------ | ------ |
-| 31  | [Train a Scikit-Learn Model with Reproducible Script](./challenges/day31.md)               | `sklearn`    | ✅     |
-| 32  | [Manage Training Configuration with YAML](./challenges/day32.md)                           | `YAML`       | ✅     |
-| 33  | [Evaluate a Trained Model and Generate Classification Report](./challenges/day33.md)       | `Evaluation` | ✅     |
-| 34  | [Implement Cross-Validation for Model Selection](./challenges/day34.md)                    | `sklearn`    | ✅     |
-| 35  | [Hyperparameter Tuning with Optuna](./challenges/day35.md)                                 | `Optuna`     | ✅     |
-| 36  | [Automated Model Selection with FLAML AutoML](./challenges/day36.md)                       | `FLAML`      | ✅     |
-| 37  | [Distributed Model Training with Joblib Parallelization](./challenges/day37.md)            | `Joblib`     | ✅     |
-| 38  | [Build Modular Training Pipeline with Config-Driven Stages](./challenges/day38.md)         | `MLOps`      | ✅     |
-| 39  | [Train a PyTorch Model with GPU Support and Checkpointing](./challenges/day39.md)          | `PyTorch`    | ✅     |
-| 40  | [Production Training System: Tracking, Tuning, and Model Selection](./challenges/day40.md) | `MLOps`      | ⏳     |
-| 41  | [Install and Initialize a Feast Feature Store](./challenges/day41.md)                      | `Feast`      | ⏳     |
-| 42  | [Define Feature Views in Feast](./challenges/day42.md)                                     | `Feast`      | ⏳     |
-| 43  | Materialize Features to the Online Store                                                   | `Feast`      | ⏳     |
+| Day | Topic                                                                                 | Tech Stack   | Status |
+| --- | ------------------------------------------------------------------------------------- | ------------ | ------ |
+| 31  | [Fix a Broken Config-Driven Training Setup](./challenges/day31.md)                    | `sklearn`    | ✅     |
+| 32  | [Make a Training Script Reproducible (Seed Discipline)](./challenges/day32.md)        | `YAML`       | ✅     |
+| 33  | [Fix a Broken Evaluation Script and Metrics Report](./challenges/day33.md)            | `Evaluation` | ✅     |
+| 34  | [Fix a Broken Cross-Validation Loop (Stratified + Aggregates)](./challenges/day34.md) | `sklearn`    | ✅     |
+| 35  | [Fix a Broken Optuna Tuner with MLflow Logging](./challenges/day35.md)                | `Optuna`     | ✅     |
+| 36  | [Fix a Multi-Model Bake-Off in the MLflow Compare View](./challenges/day36.md)        | `FLAML`      | ✅     |
+| 37  | [Fix a Four-Stage Training Pipeline's Inter-Stage Wiring](./challenges/day37.md)      | `Joblib`     | ✅     |
+| 38  | [Fix a Parallel-Training Bake-Off (n_jobs Backend)](./challenges/day38.md)            | `MLOps`      | ✅     |
+| 39  | [Make a PyTorch Trainer Device-Aware with Checkpointing](./challenges/day39.md)       | `PyTorch`    | ✅     |
+| 40  | [Fix and Complete a Five-Stage Training Capstone](./challenges/day40.md)              | `MLOps`      | ✅     |
+| 41  | [Install and Initialize a Feast Feature Store](./challenges/day41.md)                 | `Feast`      | ⏳     |
+| 42  | [Define Feature Views in Feast](./challenges/day42.md)                                | `Feast`      | ⏳     |
+| 43  | Materialize Features to the Online Store                                              | `Feast`      | ⏳     |
 
 ### 데이터 품질 및 가상 인프라 보안
 
